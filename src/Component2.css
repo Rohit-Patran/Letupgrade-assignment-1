@@ -1,0 +1,11 @@
+.component2{
+    background-color: darkgreen;
+    width: 30vw;
+    border-radius: 0.5vw;
+    text-align: center;
+    margin: 0 auto;
+}
+.component2 h1{
+    padding:1vw;
+    color: white;
+}

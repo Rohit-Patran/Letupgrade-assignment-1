@@ -1,0 +1,12 @@
+.component1{
+    background-color: #ff9933;
+    width: 30vw;
+    border-radius: 0.5vw;
+    text-align: center;
+    height: auto;
+    margin: 0 auto;
+}
+.component1 h1{
+    padding: 1vw;
+    color: white;
+}
